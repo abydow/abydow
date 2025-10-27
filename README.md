@@ -366,25 +366,9 @@ This profile README was crafted with inspiration from:
 <div align="center">
 
 ### 🌟 If you like my work, consider giving it a star! ⭐
-
+> **"The best way to predict the future is to create it."** - Peter Drucker
 ### 💙 Thank you for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-**"The best way to predict the future is to create it."** - Peter Drucker
-
-Made with ❤️ by [Anurag Banerjee](https://github.com/abydow)
-
-<!-- Social Media Follow Buttons -->
-[![GitHub Follow](https://img.shields.io/github/followers/abydow?label=Follow&style=social)](https://github.com/abydow)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-
-Last Updated: October 2025
 
 </div>
