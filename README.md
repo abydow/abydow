@@ -50,28 +50,28 @@
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins" alt="Cloud & DevOps" />
 </p>
 
 
 ### 💻 Programming & Scripting
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,bash,lua,git,github,gitlab" alt="Programming" />
 </p>
 
 
 ### 🐧 Operating Systems & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,vim,markdown" alt="OS & Tools" />
 </p>
 
 
 ### 🔧 CI/CD & Automation
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" alt="CI/CD" />
 </p>
 
