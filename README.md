@@ -14,21 +14,6 @@
 
 ## 💫 About Me
 
-```typescript
-const anurag = {
-    pronouns: "He" | "Him",
-    location: "Kolkata, West Bengal, India 🇮🇳",
-    currentFocus: "Building Cloud-Native Solutions & Automating Infrastructure",
-    education: "12th Grade | Considering BCA",
-    role: "Aspiring DevOps Engineer",
-    passion: ["Automation", "Cloud Architecture", "Open Source"],
-    currentlyLearning: ["Kubernetes", "Go", "AWS/Azure", "Docker"],
-    workingOn: ["Python Projects", "Linux Customization", "Technical Documentation"],
-    communities: ["GitHub", "LinkedIn", "Twitter/X"],
-    funFact: "I debug with coffee and automate everything! ☕🤖",
-    motto: "Learn in Public, Build in Open Source",
-};
-```
 <img width="1500" height="370" alt="header" src="https://github.com/user-attachments/assets/6923face-c328-4b8f-ac5f-24b3e988a76c" />
 
 
