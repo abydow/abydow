@@ -140,23 +140,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards -->
-<a href="https://github.com/abydow/Manual-Arch-Linux-Installation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abydow&repo=Manual-Arch-Linux-Installation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/abydow/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abydow&repo=Python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
