@@ -8,12 +8,12 @@
 
 </div>
 
-## 💫 About Me
+##  About Me
 
 <img width="1500" height="370" alt="header" src="https://github.com/user-attachments/assets/6923face-c328-4b8f-ac5f-24b3e988a76c" />
 
 
-### 🎯 What I'm Up To
+###  What I'm Up To
 
 - 🔭 Building **CLI tools** and **automation scripts** with Python
 - 🌱 Deep diving into **DevOps practices** and **Cloud technologies**
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -44,28 +44,28 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins" alt="Cloud & DevOps" />
 </p>
 
 
-### 💻 Programming & Scripting
+###  Programming & Scripting
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,bash,lua,git,github,gitlab" alt="Programming" />
 </p>
 
 
-### 🐧 Operating Systems & Tools
+###  Operating Systems & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,vim,markdown" alt="OS & Tools" />
 </p>
 
 
-### 🔧 CI/CD & Automation
+###  CI/CD & Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" alt="CI/CD" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 ---
 
-## 💼 Experience & Education
+## Experience & Education
 
 ### 🎯 Focus Areas
 
@@ -137,10 +137,10 @@
 
 ---
 
-## 🎮 When I'm Not Coding
+##  When I'm Not Coding
 
-- 💪 **Fitness**: Gym workouts and bodybuilding
-- 🖥️ **Linux Ricing**: Customizing my Arch Linux setup with Hyperland
+- **Fitness**: Gym workouts and bodybuilding
+- **Linux Ricing**: Customizing my Arch Linux setup with Hyperland
 
 ---
 
