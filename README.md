@@ -177,7 +177,7 @@ Service Mesh & Service Discovery
 
 <div align="center">
 
-### 🌟 If you like my work, consider giving it a star! ⭐
+### 🌟 A Little Learning Eachday Goes A Long Way ⭐
 > **"The best way to predict the future is to create it."** - Peter Drucker
 ### 💙 Thank you for visiting my profile!
 
