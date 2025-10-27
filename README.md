@@ -155,44 +155,6 @@
 
 </div>
 
-### 💡 Project Highlights
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **📦 Manual Arch Linux Installation** | Complete guide for manual Arch Linux installation with full system control | Arch Linux, Bash, System Administration | ✅ Active |
-| **🐍 Python Learning Repository** | Comprehensive Python notes and projects - from basics to advanced concepts | Python, Markdown, Git | 🔄 In Progress |
-| **🚀 GitHub Activity CLI** | CLI tool to track and display GitHub user activity | Python, GitHub API | ✅ Complete |
-| **⚙️ DevOps Automation Scripts** | Collection of automation scripts for DevOps workflows | Python, Bash, Docker | 🔄 In Progress |
-
----
-
-## 📝 Latest Blog Posts & Content
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section auto-updates with your latest blog posts using GitHub Actions -->
-- 🚀 **Getting Started with Kubernetes**: A beginner's guide
-- ☁️ **AWS vs Azure vs GCP**: Choosing your cloud platform
-- 🐍 **Python for DevOps**: Essential libraries and tools
-- 🐳 **Docker Best Practices**: Container optimization tips
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [**Read more on my blog →**](https://yourblog.com)
-
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| Certification | Status | Date |
-|---------------|--------|------|
-| 🏆 **AWS Certified Cloud Practitioner** | 🎯 In Progress | 2025 |
-| 🏆 **Docker Certified Associate** | 🎯 Planned | 2025 |
-| 🏆 **Kubernetes Administrator (CKA)** | 🎯 Planned | 2025 |
-| 🏆 **GitHub Actions Certification** | 🎯 Planned | 2025 |
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -221,16 +183,6 @@
 - **12th Grade** - West Bengal Board (4th Semester)
 - **Next**: Considering **BCA (Bachelor of Computer Applications)**
 
----
-
-## 🤝 Open Source Contributions
-
-<div align="center">
-
-<!-- Contribution Metrics -->
-<img src="https://github-contributor-stats.vercel.app/api?username=abydow&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-
-</div>
 
 ---
 
