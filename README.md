@@ -232,81 +232,12 @@
 
 </div>
 
-### 🌟 Contribution Highlights
-
-- 📝 **Documentation Improvements**: Contributing to open-source documentation
-- 🐛 **Bug Fixes**: Resolving issues in community projects
-- ✨ **Feature Additions**: Adding new features to existing projects
-- 💬 **Community Support**: Helping others in discussions and forums
-
----
-
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[Python Basics] --> B[Git & GitHub]
-    B --> C[Linux & Shell Scripting]
-    C --> D[Docker & Containers]
-    D --> E[Kubernetes]
-    E --> F[Cloud Platforms]
-    F --> G[CI/CD Pipelines]
-    G --> H[Infrastructure as Code]
-    H --> I[Monitoring & Logging]
-    I --> J[DevOps Engineer]
-    
-    style A fill:#4CAF50
-    style B fill:#4CAF50
-    style C fill:#4CAF50
-    style D fill:#2196F3
-    style E fill:#2196F3
-    style F fill:#FF9800
-    style G fill:#FF9800
-    style H fill:#9E9E9E
-    style I fill:#9E9E9E
-    style J fill:#F44336
-```
-
 ---
 
 ## 🎮 When I'm Not Coding
 
-- 🎮 **Gaming**: Pokemon, Genshin Impact, Call of Duty Mobile, Sekiro, Elden Ring
 - 💪 **Fitness**: Gym workouts and bodybuilding
-- 🎨 **Content Creation**: Technical YouTube content and social media
-- 📺 **Anime**: Currently watching and rewatching classics
 - 🖥️ **Linux Ricing**: Customizing my Arch Linux setup with Hyperland
-
----
-
-## 💡 Fun Stats
-
-<div align="center">
-
-```text
-🌟 Total Stars Earned:     XX
-🔀 Total Forks:            XX
-📝 Total Commits (2025):   XXX+
-🔥 Current Streak:         X days
-👥 Followers:              5
-📦 Public Repositories:    2
-🎯 Most Used Language:     Python
-```
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<!-- Replace with your actual achievement badges -->
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100px" alt="YOLO"/>
-
-</div>
 
 ---
 
