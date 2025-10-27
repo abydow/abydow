@@ -61,7 +61,7 @@
 ###  Operating Systems & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fedora,arch,ubuntu,neovim,vscode,nano,vim" alt="OS & Tools" />
+  <img src="https://skillicons.dev/icons?i=debian,arch,ubuntu,neovim,vscode,atom,vim" alt="OS & Tools" />
 </p>
 
 
