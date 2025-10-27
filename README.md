@@ -310,59 +310,6 @@ graph LR
 
 ---
 
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 **Looking for**: Entry-level DevOps Engineer positions
-- 🤝 **Open to**: Freelance projects, open-source collaborations
-- 💡 **Interested in**: Cloud architecture, automation, Python development
-- 📧 **Reach me**: [LinkedIn](https://linkedin.com/in/anurag-banerjee-a8299a37a) | [Email](mailto:your.email@example.com)
-
-### 💪 Let's Build Something Amazing Together!
-
-</div>
-
----
-
-## 📌 Pinned Gists
-
-<!-- Replace with your actual gists -->
-- 📝 [**Python DevOps Cheatsheet**](https://gist.github.com/yourusername/gist1) - Essential Python commands for DevOps
-- 🐳 [**Docker Compose Templates**](https://gist.github.com/yourusername/gist2) - Production-ready Docker Compose files
-- ⚙️ [**Linux Server Setup Script**](https://gist.github.com/yourusername/gist3) - Automated server configuration
-- 🔧 [**GitHub Actions Workflows**](https://gist.github.com/yourusername/gist4) - Reusable CI/CD workflows
-
----
-
-## 💻 Coding Activity
-
-<!--START_SECTION:waka-->
-<!-- This section shows your weekly coding stats via WakaTime -->
-<!--END_SECTION:waka-->
-
----
-
-## 🎨 Profile Design Credits
-
-This profile README was crafted with inspiration from:
-- 💡 100+ top DevOps engineer profiles on GitHub
-- 🎯 Modern design trends and best practices for 2025
-- 🚀 Community-driven open-source templates
-- ✨ Custom animations and visual elements
-
-**Tools Used:**
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
-- [Skill Icons](https://github.com/tandpfun/skill-icons)
-- [Shields.io](https://shields.io)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
----
-
 <div align="center">
 
 ### 🌟 If you like my work, consider giving it a star! ⭐
