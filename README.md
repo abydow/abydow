@@ -42,12 +42,12 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ###  Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform" alt="Cloud & DevOps" />
 </p>
 
 
@@ -61,14 +61,14 @@
 ###  Operating Systems & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,vim,markdown" alt="OS & Tools" />
+  <img src="https://skillicons.dev/icons?i=fedora,arch,ubuntu,neovim,vscode,nano,vim" alt="OS & Tools" />
 </p>
 
 
 ###  CI/CD & Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" alt="CI/CD" />
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,ansible" alt="CI/CD" />
 </p>
 
 ---
