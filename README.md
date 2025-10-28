@@ -168,12 +168,7 @@ Service Mesh & Service Discovery
 
 </div>
 
-<div align="center">
 
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=abydow&theme=tokyonight&no-frame=false&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
 
 ---
 
