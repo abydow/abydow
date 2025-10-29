@@ -172,17 +172,6 @@ Service Mesh & Service Discovery
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/abydow/abydow/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## Experience & Education
 
 ### 🎯 Focus Areas
