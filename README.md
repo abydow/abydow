@@ -148,12 +148,12 @@ Service Mesh & Service Discovery
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark" width="49.7%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark" width="49.6%" alt="GitHub Stats"/>
 </a>
 
 <!-- Top Languages by Repo -->
 <a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49.7%" alt="Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49.6%" alt="Languages by Repo"/>
 </a>
 
 <!-- Profile Details -->
