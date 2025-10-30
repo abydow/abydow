@@ -192,7 +192,7 @@ Service Mesh & Service Discovery
 
 ##  When I'm Not Coding
 
-- **Fitness**: Regular in gym. 
+- **Fitness**: Regular in gym
 - **Linux Ricing**: Customizing my Arch Linux setup with Hyperland
 
 ---
