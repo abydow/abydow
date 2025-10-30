@@ -147,9 +147,19 @@ Service Mesh & Service Discovery
 <div align="center">
 
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark)](https://github.com/abydow)
-[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark)](https://github.com/abydow)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=nord_dark)](https://github.com/abydow)
+<a href="https://github.com/abydow">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark" width="50%" alt="GitHub Stats"/>
+</a>
+
+<!-- Top Languages by Repo -->
+<a href="https://github.com/abydow">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49%" alt="Languages by Repo"/>
+</a>
+
+<!-- Profile Details -->
+<a href="https://github.com/abydow">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=nord_dark" width="100%" alt="Profile Details"/>
+</a>
 
 </div>
 
