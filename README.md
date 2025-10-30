@@ -147,9 +147,9 @@ Service Mesh & Service Discovery
 <div align="center">
 
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=tokyonight)](https://github.com/abydow)
-[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=tokyonight)](https://github.com/abydow)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=tokyonight)](https://github.com/abydow)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=github_dark)](https://github.com/abydow)
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=github_dark)](https://github.com/abydow)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=github_dark)](https://github.com/abydow)
 
 </div>
 
