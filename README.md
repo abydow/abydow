@@ -15,7 +15,7 @@
 
 ###  What I'm Up To
 
-- 🔭 Building **CLI tools** and **automation scripts** with Python
+- 🔭 Building **CLI tools** and **automation scripts** with Python and Golang
 - 🌱 Deep diving into **DevOps practices** and **Cloud technologies**
 - 📚 Creating comprehensive **technical documentation** and guides
 - 🤝 Open to **collaborations** on DevOps and Python projects
