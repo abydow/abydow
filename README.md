@@ -34,7 +34,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abydow&style=for-the-badge&color=brightgreen)
-# [![GitHub followers](https://img.shields.io/github/followers/abydow?style=for-the-badge&color=blue)](https://github.com/abydow?tab=followers)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/abydow?style=for-the-badge&color=blue)](https://github.com/abydow?tab=followers) -->
 
 </div>
 
