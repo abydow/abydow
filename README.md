@@ -158,7 +158,7 @@ Service Mesh & Service Discovery
 
 <!-- Profile Details -->
 <a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=nord_dark" width="98%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=nord_dark" width="99%" alt="Profile Details"/>
 </a>
 
 </div>
