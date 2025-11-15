@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave Animation Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Github&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="200%"/>
 
 </div>
 
