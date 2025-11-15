@@ -6,7 +6,7 @@
 </div>
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=80&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=70&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
 
 ##  About Me
 
