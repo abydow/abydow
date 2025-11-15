@@ -184,7 +184,8 @@ Deep diving into **DevOps practices** and **Cloud technologies**
 
 <div align="center">
 
-### 🌟 A Little Learning Eachday Goes A Long Way ⭐
+### A Little Learning Eachday Goes A Long Way 
+
 > **"The best way to predict the future is to create it."** - Peter Drucker
 ### 💙 Thank you for visiting my profile!
 
