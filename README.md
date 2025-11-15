@@ -17,7 +17,7 @@ Deep diving into **DevOps practices** and **Cloud technologies**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-banerjee-a8299a37a)
-[![Email](https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=email&logoColor=red)](abydow@hotmail.com)
+[![Email](https://img.shields.io/badge/Email: abydow@hotmail.com-100000?style=for-the-badge&logo=email&logoColor=red)](abydow@hotmail.com)
 
 
 </div>
