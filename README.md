@@ -17,12 +17,7 @@ Deep diving into **DevOps practices** and **Cloud technologies**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-banerjee-a8299a37a)
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=abydow&style=for-the-badge&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/abydow?style=for-the-badge&color=blue)](https://github.com/abydow?tab=followers)
 
 </div>
 
