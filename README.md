@@ -8,13 +8,11 @@
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=70&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
 
----
 
 <img width="1500" height="370" alt="header" src="https://github.com/user-attachments/assets/6923face-c328-4b8f-ac5f-24b3e988a76c" />
 
----
-
 ###  I'm Up To
+---
 
 - 🔭 Building **CLI tools** and **automation scripts** with Python and Golang
 - 🌱 Deep diving into **DevOps practices** and **Cloud technologies**
