@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=50&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=200&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=50&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
 
 <!-- Wave Animation Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevOps%20%7C%20Linux%20%7C%20Cloud&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
