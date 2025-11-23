@@ -15,65 +15,50 @@
 -  Currently learning: Golang,AI
 -  Passionate about: Devops, Cloud, AI
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-banerjee-a8299a37a)
-![Profile Views](https://komarev.com/ghpvc/?username=abydow&style=for-the-badge&color=brightgreen)
+## 🛠️ Tech Stack
+
+---
+
+## 📂 Featured Projects
+> Incoming!!
+---
+
+## 📊GitHub Statistics
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=abydow)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abydow&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abydow&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abydow&theme=darkhub) -->
 
 
 </div>
 
 ---
 
-##  GitHub Statistics
+## 🎓 Learning Path
 
+**Current Focus:** GO_LANG
+
+**Next Goal:** Operating Systems
+
+**Completed:** Python Programmi9ng Language, Learned about different IDE's
+
+**Roadmap:** [Devops_Roadmap](https://roadmap.sh/devops)
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [www.linkedin.com/in/abydow]
+<!-- - **Twitter/X:** [URL] -->
+- **Email:** [abydow@hotmail.com]
+<!-- - **Portfolio:** [URL if exists] -->
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark" width="49%" alt="GitHub Stats"/>
-</a>
+## 💬 Latest Activity
 
-<!-- Top Languages by Repo -->
-<a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49%" alt="Languages by Repo"/>
-</a>
-
-<!-- Profile Details -->
-<a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abydow&theme=nord_dark" width="99%" alt="Profile Details"/>
-</a>
-
-</div>
-
----
-
-## Experience & Education
-
-### 🎯 Focus Areas
-
-- **DevOps Engineering**: CI/CD pipelines, automation, infrastructure as code
-- **Cloud Computing**: AWS, Azure, multi-cloud architecture
-- **System Administration**: Linux server management, performance optimization
-- **Python Development**: CLI tools, automation scripts, API development
-- **Technical Documentation**: Creating comprehensive guides and tutorials
-
-### 📚 Education
-
-- **12th Grade** - West Bengal Board (4th Semester)
-- **Next**: Considering **BCA (Bachelor of Computer Applications)**
-
-
----
-
-##  When I'm Not Coding
-
-- **Fitness**: Regular in gym
-- **Linux Ricing**: Customizing my Arch Linux setup with Hyperland
-
----
-
-<div align="center">
+Installed some AI models locally. Now I am experimenting with it. checkout (url) for more info.
 
 ### A Little Learning Eachday Goes A Long Way 
 
