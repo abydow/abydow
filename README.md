@@ -36,6 +36,10 @@
 ## 📊GitHub Statistics
 
 <!-- Comprehensive stats with custom theme -->
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark&bg_color=none" width="49%" alt="Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49%" alt="Languages by Repo"/>
+</div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abydow&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
