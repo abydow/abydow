@@ -36,8 +36,6 @@
 ## 📊GitHub Statistics
 
 <!-- Comprehensive stats with custom theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abydow&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=9f9f9f )
-![GitHub Streak](https://streak-stats.demolab.com/?user=abydow&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abydow&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
