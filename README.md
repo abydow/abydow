@@ -12,6 +12,9 @@
 
 ### Hi! I'm Anurag, a DevOps enthusiast from Kolkata on a mission to master cloud infrastructure automation and modern DevOps practices.
 
+-  Currently learning: Golang,AI
+- 💡 Passionate about: Devops, Cloud, AI
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-banerjee-a8299a37a)
