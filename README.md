@@ -9,8 +9,8 @@
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=70&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abydow&color=blue&style=flat-square)
-![ik](https://visitor-badge.laobi.icu/badge?page_id=abydow.abydow&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abydow&color=blue&style=flat)
+![ik](https://visitor-badge.laobi.icu/badge?page_id=abydow.abydow&style=flat)
 
 </div>
 
@@ -37,13 +37,16 @@
 
 <!-- Comprehensive stats with custom theme -->
 
-<a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=nord_dark" width="49%" alt="GitHub Stats"/>
+<a href="https://github.com/abydow"> 
+<img
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abydow&theme=transparent"
+  width="49%" alt="GitHub Stats"/>
+
 </a>
 
 <!-- Top Languages by Repo -->
 <a href="https://github.com/abydow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=nord_dark" width="49%" alt="Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abydow&theme=transparent" width="49%" alt="Languages by Repo"/>
 </a>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abydow&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
