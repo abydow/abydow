@@ -74,12 +74,13 @@
 
 ## 💬 Latest Activity
 
-Installed some AI models locally. Now I am experimenting with it. checkout [(url)](https://github.com/abydow/Running_AI_models_locally) for more info.
-<div align="center">
-  
-### A Little Learning Eachday Goes A Long Way 
+> Installed some AI models locally. Now I am experimenting with it. checkout [(url)](https://github.com/abydow/Running_AI_models_locally) for more info.
 
-> **"The best way to predict the future is to create it."** - Peter Drucker
+
+<div align="center">
+
+### **"The best way to predict the future is to create it."**
+
 ### 💙 Thank you for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
