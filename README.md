@@ -54,12 +54,11 @@
 <!-- - **Twitter/X:** [URL] -->
 - **Email:** [abydow@hotmail.com]
 <!-- - **Portfolio:** [URL if exists] -->
-<div align="center">
 
 ## 💬 Latest Activity
 
-Installed some AI models locally. Now I am experimenting with it. checkout (url) for more info.
-
+Installed some AI models locally. Now I am experimenting with it. checkout [(url)](https://github.com/abydow/Running_AI_models_locally) for more info.
+<div align="center">
 ### A Little Learning Eachday Goes A Long Way 
 
 > **"The best way to predict the future is to create it."** - Peter Drucker
