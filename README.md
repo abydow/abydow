@@ -75,7 +75,7 @@
 
 ## 💬 Latest Activity
 
-> Installed some AI models locally. Now I am experimenting with it. checkout [(url)](https://github.com/abydow/Running_AI_models_locally) for more info.
+> learned abou Go mod and dependency 
 
 
 <div align="center">
