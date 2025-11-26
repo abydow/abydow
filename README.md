@@ -75,7 +75,7 @@
 
 ## 💬 Latest Activity
 
-> learned abou Go mod and dependency 
+> learned about Go mod and dependency 
 
 
 <div align="center">
