@@ -38,8 +38,12 @@
 
 <!-- Comprehensive stats with custom theme -->
 
-![](https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/3-stats.svg)
-![](https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/1-repos-per-language.svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/3-stats.svg" width="500" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/1-repos-per-language.svg" width="500" alt="GitHub Stats" />
+</div>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abydow&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
 ---
