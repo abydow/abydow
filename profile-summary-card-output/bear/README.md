@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    
