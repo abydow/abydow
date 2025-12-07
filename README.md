@@ -69,7 +69,7 @@
 
 ## 💬 Latest Activity
 
-> learned about Go mod and dependency 
+> working on a new Project, Server Performance stats 
 
 
 <div align="center">
