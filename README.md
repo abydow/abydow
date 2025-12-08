@@ -16,7 +16,7 @@
 
 ### Hi! I'm Anurag, a DevOps enthusiast from Kolkata on a mission to master cloud infrastructure automation and modern DevOps practices.
 
--  Currently learning: Golang,AI-ML
+-  Currently learning: Golang,AI-ML,Bash
 -  Passionate about: Devops, Cloud, AI
 
 
