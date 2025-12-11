@@ -69,7 +69,7 @@
 
 ## 💬 Latest Activity
 
-> working on a new Project, Server Performance stats 
+> working on a expense tracker in python 
 
 
 <div align="center">
