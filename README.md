@@ -67,7 +67,7 @@
 
 ## 💬 Latest Activity
 
-> working on a expense tracker in python 
+> working on Sync, a discord bot.. 
 
 
 <div align="center">
