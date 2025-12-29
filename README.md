@@ -78,8 +78,7 @@
 
 ## 💬 Latest Activity
 
-> working on Sync, a discord bot.. 
-
+> Learning PostgreSQL
 
 <div align="center">
 
