@@ -78,7 +78,7 @@
 
 ## 💬 Latest Activity
 
-> Learning PostgreSQL
+> Learning tmux
 
 <div align="center">
 
