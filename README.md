@@ -78,7 +78,7 @@
 
 ## 💬 Latest Activity
 
-> Learning tmux
+> Building sync 
 
 <div align="center">
 
