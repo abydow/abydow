@@ -61,7 +61,7 @@
 
 **Next Goal:** Operating Systems
 
-**Completed:** Python Programming Language, Learned about different IDEs
+**Completed:** Python Programming Language,Neovim
 
 **Roadmap:** [Devops_Roadmap](https://roadmap.sh/devops)
 
@@ -76,7 +76,7 @@
 
 ## 💬 Latest Activity
 
-> Building sync 
+> switched to fedora cosmic atomic, working on a new machine.
 
 <div align="center">
 
