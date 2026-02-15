@@ -76,7 +76,7 @@
 
 ## 💬 Latest Activity
 
-> switched to fedora cosmic atomic, working on a new machine.
+> Working on dotfiles .
 
 <div align="center">
 
