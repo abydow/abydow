@@ -76,7 +76,7 @@
 
 ## 💬 Latest Activity
 
-> Working on dotfiles .
+> switching to KDE cause cosmic is too buggy.
 
 <div align="center">
 
